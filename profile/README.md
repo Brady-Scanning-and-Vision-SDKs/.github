@@ -1,4 +1,4 @@
-[![BradyCorp GitHub Homepage](https://brady-github-org-resources-bucket.s3.us-east-1.amazonaws.com/brady-gIthub-hero-image.jpg?ts=2 "Brady Corporation Hero Image")](https://www.bradyid.com/)
+[![BradyCorp GitHub Homepage](https://brady-github-org-resources-bucket.s3.us-east-1.amazonaws.com/Brady_Github_Hero_Image_v4.jpg "Brady Corporation Hero Image")](https://www.bradyid.com/)
 
 > *Enabling fast, reliable data capture and automation across any application or industry.*
 
