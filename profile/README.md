@@ -23,7 +23,7 @@ This site provides SDK documentation, integration guides, and sample projects to
 * [**Web SDK**](https://github.com/Brady-Scanning-and-Vision-SDKs/cortexdecoder-web-sdk) — JavaScript/TypeScript module with WebAssembly support
 * **Embedded SDK** — C/C++ libraries for ARM, Linux, and OEM systems
 
-**Cross-Platform Wrappers:** Xamarin/.NET MAUI, React Native, and Flutter bridges expand SDK flexibility for hybrid development.
+**Cross-Platform Wrappers:** Xamarin/.NET MAUI, React Native, and Flutter expand SDK flexibility for hybrid development.
 
 - - -
 
