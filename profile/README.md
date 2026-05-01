@@ -20,11 +20,10 @@ This site provides SDK documentation, integration guides, and sample projects to
 
 * [**Android SDK**](https://github.com/Brady-Scanning-and-Vision-SDKs/cortexdecoder-android-sdk) — Java/Kotlin integration for Android devices
 * [**iOS SDK**](https://github.com/Brady-Scanning-and-Vision-SDKs/cortexdecoder-ios-sdk) — Swift and Objective-C frameworks for iPhone and iPad
-* **Windows SDK** — .NET and C++ libraries for Windows applications
 * [**Web SDK**](https://github.com/Brady-Scanning-and-Vision-SDKs/cortexdecoder-web-sdk) — JavaScript/TypeScript module with WebAssembly support
 * **Embedded SDK** — C/C++ libraries for ARM, Linux, and OEM systems
 
-**Cross-Platform Wrappers:** Xamarin/.NET MAUI, React Native, Flutter (planned), and Cordova/Capacitor bridges expand SDK flexibility for hybrid development.
+**Cross-Platform Wrappers:** Xamarin/.NET MAUI, React Native, and Flutter bridges expand SDK flexibility for hybrid development.
 
 - - -
 
