@@ -52,4 +52,4 @@ Email: software.support@codecorp.com
 <br>
 <br>
 <br>
-© 2025 Brady Corporation. All rights reserved.
+© 2026 Brady Corporation. All rights reserved.
